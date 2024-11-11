@@ -4,7 +4,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=02Skanu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={02Skanu})
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=02Skanu)
 
 <a href="https://www.instagram.com/s__kanu/" target="_blank"><img src="https://img.shields.io/badge/s__kanu-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
 
