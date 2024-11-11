@@ -8,12 +8,10 @@
 
 
 
-<h3 align="center">![image](https://github.com/user-attachments/assets/a944f5a1-d646-4ca2-b75c-90f6e0d49e6e)
- Contact ![image](https://github.com/user-attachments/assets/5c26d6e5-dbf7-43df-b3e5-fb1a6cd7afa7)
-</h3>
+<h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://www.instagram.com/s__kanu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/E-mail-#03C75AF?style=for-the-badge&logo=Naver&logoColor=FFFFFF"/></a>
+  <a href="mailto:sushin.bot@naver.com" target="_blank"><img src="https://img.shields.io/badge/E-mail-#03C75AF?style=for-the-badge&logo=Naver&logoColor=FFFFFF"/></a>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
