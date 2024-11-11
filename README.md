@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300px" width="800px" src="https://github.com/02Skanu/02Skanu/blob/main/github_logo.gif" />
+  <img height="200px" width="800px" src="https://github.com/02Skanu/02Skanu/blob/main/github_logo.gif" />
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=02Skanu&show_icons=true&theme=radical)
@@ -9,7 +9,13 @@
 <h3 align="center">🌱 Tech Stack 🌱</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/androidstudio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF" />&nbsp
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=FFFFFF" />&nbsp
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" />&nbsp
