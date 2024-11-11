@@ -1,11 +1,6 @@
 <div align="center">
   <img width="800px" src="https://github.com/02Skanu/02Skanu/blob/main/github_logo.gif" />
-  <img src="https://github-readme-stats.vercel.app/api?username=02Skanu&show_icons=true&theme=radical" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=02Skanu&layout=compact" /> -->
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=02Skanu" />
 </div>
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=02Skanu&show_icons=true&theme=radical)
 #![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=02Skanu)
