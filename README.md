@@ -5,6 +5,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=02Skanu&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=02Skanu)
 
+<h1 align="center">![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F02Skanu&edge_flat=false&title=hits)</h1>
+
 
 <h3 align="center">🌱 Tech Stack 🌱</h3>
 <div align="center">
