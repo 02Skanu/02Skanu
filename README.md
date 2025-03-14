@@ -24,7 +24,9 @@
   <a href="mailto:babyrhksdn1@naver.com" target="_blank"><img src="https://img.shields.io/badge/babyrhksdn1@naver.com-03C75AF?style=for-the-badge&logo=Naver&logoColor=FFFFFF"/></a>
 </div>
 
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{02Skanu}"/>
 </a>
