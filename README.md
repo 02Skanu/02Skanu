@@ -25,9 +25,6 @@
 </div>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{02Skanu}?pet-id=1" width="1000" height="120"/>
-</a>
-<a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{02Skanu}"/>
 </a>
 <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/babyrhksdn1" width="600" height="300"/></a>
