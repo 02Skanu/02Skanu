@@ -2,14 +2,6 @@
   <img height="200px" width="800px" src="https://github.com/02Skanu/02Skanu/blob/main/github_logo.gif" />
 </div>
 
-# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=02Skanu&show_icons=true&theme=radical)
-# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=02Skanu)
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{02Skanu}"/>
-</a>
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/babyrhksdn1" width="600" height="300"/></a>
-
 <h3 align="center">🌱 Tech Stack 🌱</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF" />&nbsp
@@ -33,7 +25,10 @@
 </div>
 
 
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{02Skanu}"/>
+</a>
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/babyrhksdn1" width="600" height="300"/></a>
 
 
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F02Skanu&edge_flat=false&title=hits)
