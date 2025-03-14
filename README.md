@@ -24,8 +24,12 @@
   <a href="mailto:babyrhksdn1@naver.com" target="_blank"><img src="https://img.shields.io/badge/babyrhksdn1@naver.com-03C75AF?style=for-the-badge&logo=Naver&logoColor=FFFFFF"/></a>
 </div>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{02Skanu}"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=02Skanu&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/02Skanu"
+  width="600"
+  height="300"
+/>
 </a>
 <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/babyrhksdn1" width="600" height="300"/></a>
 
