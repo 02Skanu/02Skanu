@@ -29,6 +29,7 @@
   src="https://render.gitanimals.org/farms/02Skanu"
   width="600"
   height="300"
+  contribution-view=false
 />
 </a>
 <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/babyrhksdn1" width="600" height="300"/></a>
