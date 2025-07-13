@@ -38,9 +38,6 @@
 <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/babyrhksdn1" width="600" height="300"/></a>
 
 
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F02Skanu&edge_flat=false&title=hits)
-
-
 <!--
 **02Skanu/02Skanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
